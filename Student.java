@@ -1,9 +1,9 @@
 class Student{
-  private Long studId;
-  private String studName;
-  private String studEmail;
-  private Double studFee;
-  private String studAddrs;
-  private Long studMob;
-  private Long studPanId;
+  private Long sId;
+  private String sName;
+  private String sEmail;
+  private Double sFee;
+  private String sAddrs;
+  private Long sMob;
+  private Long sPanId;
 }
