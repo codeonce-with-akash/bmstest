@@ -3,4 +3,6 @@ class FacultyDetails{
 	private String facutltyEmail;
 	private Long facultyMob;
 	private Long facultyPanId;
+	private String facultyAddhar;
+	private String facultyDept;
 }

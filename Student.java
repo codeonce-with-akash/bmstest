@@ -6,4 +6,5 @@ class Student{
   private String sAddrs;
   private Long sMob;
   private Long sPanId;
+  private Long studAddhar;
 }
